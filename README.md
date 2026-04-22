@@ -128,5 +128,5 @@ Applied Grid Search to find the best model parameters. Combined with K-Fold Cros
 pip install -r requirements.txt
 
 # Run training script
-python train.py
+python main.py
 </pre>
